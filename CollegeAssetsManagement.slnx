@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/CollegeAssetsManagement/">
+    <File Path="CollegeAssetsManagement/CollegeAssetsManagement.slnx" />
+    <File Path="CollegeAssetsManagement/README.md" />
+  </Folder>
+  <Project Path="CollegeAssets.API/CollegeAssets.API.csproj" />
+  <Project Path="CollegeAssets.Application/CollegeAssets.Application.csproj" />
+  <Project Path="CollegeAssets.Core/CollegeAssets.Core.csproj" />
+  <Project Path="CollegeAssets.Infrastructure/CollegeAssets.Infrastructure.csproj" />
+  <Project Path="CollegeAssets.Web/CollegeAssets.Web.csproj" Id="c57040cc-3c01-4c34-bf86-61c8a60e2e9e" />
+</Solution>
